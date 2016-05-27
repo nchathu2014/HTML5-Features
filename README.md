@@ -1,5 +1,5 @@
 # Learning HTML5 Features
-- New Semantic Elements <header>,<footer>,<section>     
+- New Semantic Elements    
 - Advanced Form Handling
 - Local Storage for data persistance
 - Drag and Drop capability support
